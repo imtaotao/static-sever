@@ -1,0 +1,12 @@
+# misc editing tools
+.vscode/
+tags
+
+#mac
+*.DS_Store
+
+# package-lock.json
+./package-lock.json
+
+# build tools
+node_modules/
